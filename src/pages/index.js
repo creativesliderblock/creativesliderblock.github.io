@@ -25,7 +25,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Create stunning sliders with ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Easily create beautiful and responsive sliders using our WordPress plugin">
       <HomepageHeader />
       <main>
