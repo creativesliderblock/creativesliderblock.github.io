@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Creative Slider Block',
-  tagline: 'Easily create beautifull sliders that fit perfectly with your website’s design.',
+  tagline: 'Easily create sliders that fit perfectly with your website’s design.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
